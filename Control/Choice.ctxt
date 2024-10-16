@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Choice
+comment0.text=\r\n\ The\ Choice\ class\ has\ a\ method\ that\ displays\ the\ user's\ grade,\r\n\ a\ method\ that\ displays\ a\ table\ of\ values\r\n\ a\ method\ that\ displays\ the\ statistics\ of\ values\r\n\ a\ method\ that\ displays\ an\ exit\ message\r\n\ a\ method\ that\ displays\ an\ error\ message\r\n\r\n\ @author\ Eliza\r\n\ @version\ 01/11/2023\r\n
+comment1.params=
+comment1.target=void\ displayGrade()
+comment1.text=\r\n\ Initializes\ grade\ variable\r\n\ Uses\ a\ Scanner\ to\ assign\ user\ input\ to\ grade\ variable\r\n\ Uses\ if\ statements\ to\ define\ the\ grade\ boundaries\ and\ display\ the\ correct\ message\r\n
+comment2.params=
+comment2.target=void\ displayTable()
+comment2.text=\r\n\ Initializes\ a\ lower\ and\ upper\ variable\r\n\ Uses\ a\ scanner\ to\ assign\ user\ input\ to\ lower\ and\ upper\ variable\r\n\ Displays\ the\ titles\ for\ the\ table's\ columns\r\n\ Uses\ a\ for\ loop\ to\ allow\ for\ numbers\ between\ the\ lower\ and\ upper\ values\ to\ be\ included\r\n\ Initializes\ variables\ for\ the\ square,\ cube\ and\ square\ root\ values\r\n
+comment3.params=
+comment3.target=void\ displayStatistics()
+comment3.text=\r\n\ Initializes\ variables\r\n\ Uses\ a\ while\ loop\ takes\ in\ user\ input\ and\ loops\ until\ -1\ is\ entered\r\n\ then\ calculates\ and\ displays\ total,\ average,\ minimum\ and\ maximum\r\n
+comment4.params=
+comment4.target=void\ displayExit()
+comment4.text=\r\n\ Displays\ an\ exit\ message\r\n
+comment5.params=
+comment5.target=void\ displayIncorrect()
+comment5.text=\r\n\ Display\ an\ error\ message\r\n
+numComments=6

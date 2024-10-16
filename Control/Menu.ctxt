@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Menu
+comment0.text=\r\n\ The\ Menu\ class\ has\ a\ method\ that\ displays\ a\ menu\ and\ a\ method\ that\ allows\ the\ user\ to\ pick\r\n\ an\ option\r\n\r\n\ @author\ Eliza\r\n\ @version\ 01/11/2023\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment1.text=\r\n\ This\ is\ the\ main\ method,\ it\ creates\ an\ instance\ of\ the\ Menu\ class\ and\ calls\ the\ \r\n\ processUserChoices\ method\r\n\ \r\n
+comment2.params=
+comment2.target=void\ displayMenu()
+comment2.text=\r\n\ Displays\ a\ menu\ to\ the\ user\r\n
+comment3.params=
+comment3.target=void\ processUserChoices()
+comment3.text=\r\n\ Initialzes\ choice\ variable,\ calls\ displayMenu\ method,\ creates\ instance\ of\ Choice\ class,\ \r\n\ uses\ Scanner\ to\ assign\ user\ input\ to\ choice\ variable\r\n\ then\ uses\ if\ statements\ to\ perform\ different\ actions\ depending\ on\ user\ input\r\n\ all\ of\ that\ is\ in\ a\ do\ while\ loop\ that\ loops\ the\ method\ as\ long\ as\ the\ choice\ inputted\r\n\ is\ no\ 0\r\n
+numComments=4
